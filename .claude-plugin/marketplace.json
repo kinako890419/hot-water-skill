@@ -1,0 +1,14 @@
+{
+  "name": "hot-water-skill",
+  "description": "多喝熱水機器人的 Agent Skills",
+  "owner": {
+    "name": "kinako890419"
+  },
+  "plugins": [
+    {
+      "name": "hot-water",
+      "source": "./",
+      "description": "多喝熱水機器人 skills: 抽牌 (!抽), 沒良心回覆 (!抱怨), 骰選項 (!要不要)"
+    }
+  ]
+}
