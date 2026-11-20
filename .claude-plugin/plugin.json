@@ -1,0 +1,9 @@
+{
+  "name": "hot-water",
+  "description": "多喝熱水機器人 skills: 抽牌 (!抽), 沒良心回覆 (!抱怨), 骰選項 (!要不要)",
+  "version": "1.0.0",
+  "author": { 
+    "name": "kinako890419" 
+  },
+  "repository": "https://github.com/kinako890419/plurk-hot-water-bot"
+}
